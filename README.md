@@ -1,4 +1,4 @@
-# Multuser Markdown Editor App
+# Multiuser Markdown Editor App
 
 ## 📌 Project Overview
 
